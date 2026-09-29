@@ -1,0 +1,20 @@
+[client]
+# Deploy 버튼과 개발자 메뉴 숨기기
+toolbarMode = "minimal"
+
+[theme]
+primaryColor = "#16a34a"
+font = "Pretendard Variable:https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css, sans-serif"
+baseRadius = "0.75rem"
+
+[theme.light]
+primaryColor = "#16a34a"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f3f7f4"
+textColor = "#1f2937"
+
+[theme.dark]
+primaryColor = "#22c55e"
+backgroundColor = "#111513"
+secondaryBackgroundColor = "#1b221e"
+textColor = "#e5e7eb"
